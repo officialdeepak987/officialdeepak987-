@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([(https://idea11.web.app/)])**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **deepak5032singh@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
